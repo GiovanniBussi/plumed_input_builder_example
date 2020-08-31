@@ -10,3 +10,5 @@ source sourceme.sh
 cd /path/to/plumed_input_builder_example
 jupyter notebook ExampleInputBuilder.ipynb
 ```
+
+See also [this pull request](https://github.com/plumed/plumed2/pull/611)
